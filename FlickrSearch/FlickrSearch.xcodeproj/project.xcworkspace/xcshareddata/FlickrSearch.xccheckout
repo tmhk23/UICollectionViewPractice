@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>E88E1C73-0E90-4F6A-A06C-DD5AC954474E</string>
 	<key>IDESourceControlProjectName</key>
-	<string>project</string>
+	<string>FlickrSearch</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>FE7D63FC780BB68F0768A72A36D6308803B24BB1</key>
 		<string>https://github.com/tmhk23/UICollectionViewPractice.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>FlickrSearch/FlickrSearch.xcodeproj/project.xcworkspace</string>
+	<string>FlickrSearch/FlickrSearch.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>FE7D63FC780BB68F0768A72A36D6308803B24BB1</key>
